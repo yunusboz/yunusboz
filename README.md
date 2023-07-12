@@ -11,7 +11,7 @@ I'm currently developing myself with AspNetCore Web API and Android mobile appli
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yunusboz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yunusboz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusboz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yunusboz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
