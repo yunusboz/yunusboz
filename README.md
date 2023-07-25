@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Yunus Bozkurt
 # 💫 About Me:
-I'm currently developing myself with AspNetCore Web API and Android mobile application projects
+I'm currently developing myself with AspNetCore Web API, Spring Boot and Android mobile application projects
 
 
 ## 🌐 Socials:
